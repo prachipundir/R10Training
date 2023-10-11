@@ -1,0 +1,14 @@
+C:\Users\pp185251\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\net6.0\LibraryManagmentSystem.exe
+C:\Users\pp185251\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\net6.0\LibraryManagmentSystem.deps.json
+C:\Users\pp185251\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\net6.0\LibraryManagmentSystem.runtimeconfig.json
+C:\Users\pp185251\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\net6.0\LibraryManagmentSystem.dll
+C:\Users\pp185251\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\net6.0\LibraryManagmentSystem.pdb
+C:\Users\pp185251\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\net6.0\LibraryManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pp185251\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\net6.0\LibraryManagmentSystem.AssemblyInfoInputs.cache
+C:\Users\pp185251\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\net6.0\LibraryManagmentSystem.AssemblyInfo.cs
+C:\Users\pp185251\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\net6.0\LibraryManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\pp185251\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\net6.0\LibraryManagmentSystem.dll
+C:\Users\pp185251\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\net6.0\refint\LibraryManagmentSystem.dll
+C:\Users\pp185251\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\net6.0\LibraryManagmentSystem.pdb
+C:\Users\pp185251\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\net6.0\LibraryManagmentSystem.genruntimeconfig.cache
+C:\Users\pp185251\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\net6.0\ref\LibraryManagmentSystem.dll
