@@ -1,0 +1,14 @@
+C:\Users\pp185251\source\repos\MethodHiding\MethodHiding\bin\Debug\net6.0\MethodHiding.exe
+C:\Users\pp185251\source\repos\MethodHiding\MethodHiding\bin\Debug\net6.0\MethodHiding.deps.json
+C:\Users\pp185251\source\repos\MethodHiding\MethodHiding\bin\Debug\net6.0\MethodHiding.runtimeconfig.json
+C:\Users\pp185251\source\repos\MethodHiding\MethodHiding\bin\Debug\net6.0\MethodHiding.dll
+C:\Users\pp185251\source\repos\MethodHiding\MethodHiding\bin\Debug\net6.0\MethodHiding.pdb
+C:\Users\pp185251\source\repos\MethodHiding\MethodHiding\obj\Debug\net6.0\MethodHiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pp185251\source\repos\MethodHiding\MethodHiding\obj\Debug\net6.0\MethodHiding.AssemblyInfoInputs.cache
+C:\Users\pp185251\source\repos\MethodHiding\MethodHiding\obj\Debug\net6.0\MethodHiding.AssemblyInfo.cs
+C:\Users\pp185251\source\repos\MethodHiding\MethodHiding\obj\Debug\net6.0\MethodHiding.csproj.CoreCompileInputs.cache
+C:\Users\pp185251\source\repos\MethodHiding\MethodHiding\obj\Debug\net6.0\MethodHiding.dll
+C:\Users\pp185251\source\repos\MethodHiding\MethodHiding\obj\Debug\net6.0\refint\MethodHiding.dll
+C:\Users\pp185251\source\repos\MethodHiding\MethodHiding\obj\Debug\net6.0\MethodHiding.pdb
+C:\Users\pp185251\source\repos\MethodHiding\MethodHiding\obj\Debug\net6.0\MethodHiding.genruntimeconfig.cache
+C:\Users\pp185251\source\repos\MethodHiding\MethodHiding\obj\Debug\net6.0\ref\MethodHiding.dll
