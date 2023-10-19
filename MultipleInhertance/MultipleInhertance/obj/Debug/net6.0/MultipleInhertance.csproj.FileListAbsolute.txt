@@ -1,0 +1,14 @@
+C:\Users\pp185251\source\repos\MultipleInhertance\MultipleInhertance\obj\Debug\net6.0\MultipleInhertance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pp185251\source\repos\MultipleInhertance\MultipleInhertance\obj\Debug\net6.0\MultipleInhertance.AssemblyInfoInputs.cache
+C:\Users\pp185251\source\repos\MultipleInhertance\MultipleInhertance\obj\Debug\net6.0\MultipleInhertance.AssemblyInfo.cs
+C:\Users\pp185251\source\repos\MultipleInhertance\MultipleInhertance\obj\Debug\net6.0\MultipleInhertance.csproj.CoreCompileInputs.cache
+C:\Users\pp185251\source\repos\MultipleInhertance\MultipleInhertance\bin\Debug\net6.0\MultipleInhertance.exe
+C:\Users\pp185251\source\repos\MultipleInhertance\MultipleInhertance\bin\Debug\net6.0\MultipleInhertance.deps.json
+C:\Users\pp185251\source\repos\MultipleInhertance\MultipleInhertance\bin\Debug\net6.0\MultipleInhertance.runtimeconfig.json
+C:\Users\pp185251\source\repos\MultipleInhertance\MultipleInhertance\bin\Debug\net6.0\MultipleInhertance.dll
+C:\Users\pp185251\source\repos\MultipleInhertance\MultipleInhertance\bin\Debug\net6.0\MultipleInhertance.pdb
+C:\Users\pp185251\source\repos\MultipleInhertance\MultipleInhertance\obj\Debug\net6.0\MultipleInhertance.dll
+C:\Users\pp185251\source\repos\MultipleInhertance\MultipleInhertance\obj\Debug\net6.0\refint\MultipleInhertance.dll
+C:\Users\pp185251\source\repos\MultipleInhertance\MultipleInhertance\obj\Debug\net6.0\MultipleInhertance.pdb
+C:\Users\pp185251\source\repos\MultipleInhertance\MultipleInhertance\obj\Debug\net6.0\MultipleInhertance.genruntimeconfig.cache
+C:\Users\pp185251\source\repos\MultipleInhertance\MultipleInhertance\obj\Debug\net6.0\ref\MultipleInhertance.dll
