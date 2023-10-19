@@ -1,0 +1,14 @@
+C:\Users\pp185251\source\repos\AbstractionExample2\AbstractionExample2\bin\Debug\net6.0\AbstractionExample2.exe
+C:\Users\pp185251\source\repos\AbstractionExample2\AbstractionExample2\bin\Debug\net6.0\AbstractionExample2.deps.json
+C:\Users\pp185251\source\repos\AbstractionExample2\AbstractionExample2\bin\Debug\net6.0\AbstractionExample2.runtimeconfig.json
+C:\Users\pp185251\source\repos\AbstractionExample2\AbstractionExample2\bin\Debug\net6.0\AbstractionExample2.dll
+C:\Users\pp185251\source\repos\AbstractionExample2\AbstractionExample2\bin\Debug\net6.0\AbstractionExample2.pdb
+C:\Users\pp185251\source\repos\AbstractionExample2\AbstractionExample2\obj\Debug\net6.0\AbstractionExample2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pp185251\source\repos\AbstractionExample2\AbstractionExample2\obj\Debug\net6.0\AbstractionExample2.AssemblyInfoInputs.cache
+C:\Users\pp185251\source\repos\AbstractionExample2\AbstractionExample2\obj\Debug\net6.0\AbstractionExample2.AssemblyInfo.cs
+C:\Users\pp185251\source\repos\AbstractionExample2\AbstractionExample2\obj\Debug\net6.0\AbstractionExample2.csproj.CoreCompileInputs.cache
+C:\Users\pp185251\source\repos\AbstractionExample2\AbstractionExample2\obj\Debug\net6.0\AbstractionExample2.dll
+C:\Users\pp185251\source\repos\AbstractionExample2\AbstractionExample2\obj\Debug\net6.0\refint\AbstractionExample2.dll
+C:\Users\pp185251\source\repos\AbstractionExample2\AbstractionExample2\obj\Debug\net6.0\AbstractionExample2.pdb
+C:\Users\pp185251\source\repos\AbstractionExample2\AbstractionExample2\obj\Debug\net6.0\AbstractionExample2.genruntimeconfig.cache
+C:\Users\pp185251\source\repos\AbstractionExample2\AbstractionExample2\obj\Debug\net6.0\ref\AbstractionExample2.dll
