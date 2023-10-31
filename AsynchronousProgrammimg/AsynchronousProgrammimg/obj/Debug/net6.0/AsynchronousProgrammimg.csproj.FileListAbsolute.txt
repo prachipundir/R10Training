@@ -1,0 +1,14 @@
+C:\Users\pp185251\source\repos\AsynchronousProgrammimg\AsynchronousProgrammimg\bin\Debug\net6.0\AsynchronousProgrammimg.exe
+C:\Users\pp185251\source\repos\AsynchronousProgrammimg\AsynchronousProgrammimg\bin\Debug\net6.0\AsynchronousProgrammimg.deps.json
+C:\Users\pp185251\source\repos\AsynchronousProgrammimg\AsynchronousProgrammimg\bin\Debug\net6.0\AsynchronousProgrammimg.runtimeconfig.json
+C:\Users\pp185251\source\repos\AsynchronousProgrammimg\AsynchronousProgrammimg\bin\Debug\net6.0\AsynchronousProgrammimg.dll
+C:\Users\pp185251\source\repos\AsynchronousProgrammimg\AsynchronousProgrammimg\bin\Debug\net6.0\AsynchronousProgrammimg.pdb
+C:\Users\pp185251\source\repos\AsynchronousProgrammimg\AsynchronousProgrammimg\obj\Debug\net6.0\AsynchronousProgrammimg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pp185251\source\repos\AsynchronousProgrammimg\AsynchronousProgrammimg\obj\Debug\net6.0\AsynchronousProgrammimg.AssemblyInfoInputs.cache
+C:\Users\pp185251\source\repos\AsynchronousProgrammimg\AsynchronousProgrammimg\obj\Debug\net6.0\AsynchronousProgrammimg.AssemblyInfo.cs
+C:\Users\pp185251\source\repos\AsynchronousProgrammimg\AsynchronousProgrammimg\obj\Debug\net6.0\AsynchronousProgrammimg.csproj.CoreCompileInputs.cache
+C:\Users\pp185251\source\repos\AsynchronousProgrammimg\AsynchronousProgrammimg\obj\Debug\net6.0\AsynchronousProgrammimg.dll
+C:\Users\pp185251\source\repos\AsynchronousProgrammimg\AsynchronousProgrammimg\obj\Debug\net6.0\refint\AsynchronousProgrammimg.dll
+C:\Users\pp185251\source\repos\AsynchronousProgrammimg\AsynchronousProgrammimg\obj\Debug\net6.0\AsynchronousProgrammimg.pdb
+C:\Users\pp185251\source\repos\AsynchronousProgrammimg\AsynchronousProgrammimg\obj\Debug\net6.0\AsynchronousProgrammimg.genruntimeconfig.cache
+C:\Users\pp185251\source\repos\AsynchronousProgrammimg\AsynchronousProgrammimg\obj\Debug\net6.0\ref\AsynchronousProgrammimg.dll

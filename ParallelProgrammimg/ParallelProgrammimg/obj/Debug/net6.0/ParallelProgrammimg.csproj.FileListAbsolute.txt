@@ -1,0 +1,14 @@
+C:\Users\pp185251\source\repos\ParallelProgrammimg\ParallelProgrammimg\obj\Debug\net6.0\ParallelProgrammimg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pp185251\source\repos\ParallelProgrammimg\ParallelProgrammimg\obj\Debug\net6.0\ParallelProgrammimg.AssemblyInfoInputs.cache
+C:\Users\pp185251\source\repos\ParallelProgrammimg\ParallelProgrammimg\obj\Debug\net6.0\ParallelProgrammimg.AssemblyInfo.cs
+C:\Users\pp185251\source\repos\ParallelProgrammimg\ParallelProgrammimg\obj\Debug\net6.0\ParallelProgrammimg.csproj.CoreCompileInputs.cache
+C:\Users\pp185251\source\repos\ParallelProgrammimg\ParallelProgrammimg\bin\Debug\net6.0\ParallelProgrammimg.exe
+C:\Users\pp185251\source\repos\ParallelProgrammimg\ParallelProgrammimg\bin\Debug\net6.0\ParallelProgrammimg.deps.json
+C:\Users\pp185251\source\repos\ParallelProgrammimg\ParallelProgrammimg\bin\Debug\net6.0\ParallelProgrammimg.runtimeconfig.json
+C:\Users\pp185251\source\repos\ParallelProgrammimg\ParallelProgrammimg\bin\Debug\net6.0\ParallelProgrammimg.dll
+C:\Users\pp185251\source\repos\ParallelProgrammimg\ParallelProgrammimg\bin\Debug\net6.0\ParallelProgrammimg.pdb
+C:\Users\pp185251\source\repos\ParallelProgrammimg\ParallelProgrammimg\obj\Debug\net6.0\ParallelProgrammimg.dll
+C:\Users\pp185251\source\repos\ParallelProgrammimg\ParallelProgrammimg\obj\Debug\net6.0\refint\ParallelProgrammimg.dll
+C:\Users\pp185251\source\repos\ParallelProgrammimg\ParallelProgrammimg\obj\Debug\net6.0\ParallelProgrammimg.pdb
+C:\Users\pp185251\source\repos\ParallelProgrammimg\ParallelProgrammimg\obj\Debug\net6.0\ParallelProgrammimg.genruntimeconfig.cache
+C:\Users\pp185251\source\repos\ParallelProgrammimg\ParallelProgrammimg\obj\Debug\net6.0\ref\ParallelProgrammimg.dll

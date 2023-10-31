@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AsynchronousProgrammimg/1.0.0": {
+        "runtime": {
+          "AsynchronousProgrammimg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AsynchronousProgrammimg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
