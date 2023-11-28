@@ -1,0 +1,14 @@
+C:\Users\pp185251\source\repos\AdaptorDesignPattern\AdaptorDesignPattern\bin\Debug\net6.0\AdaptorDesignPattern.exe
+C:\Users\pp185251\source\repos\AdaptorDesignPattern\AdaptorDesignPattern\bin\Debug\net6.0\AdaptorDesignPattern.deps.json
+C:\Users\pp185251\source\repos\AdaptorDesignPattern\AdaptorDesignPattern\bin\Debug\net6.0\AdaptorDesignPattern.runtimeconfig.json
+C:\Users\pp185251\source\repos\AdaptorDesignPattern\AdaptorDesignPattern\bin\Debug\net6.0\AdaptorDesignPattern.dll
+C:\Users\pp185251\source\repos\AdaptorDesignPattern\AdaptorDesignPattern\bin\Debug\net6.0\AdaptorDesignPattern.pdb
+C:\Users\pp185251\source\repos\AdaptorDesignPattern\AdaptorDesignPattern\obj\Debug\net6.0\AdaptorDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pp185251\source\repos\AdaptorDesignPattern\AdaptorDesignPattern\obj\Debug\net6.0\AdaptorDesignPattern.AssemblyInfoInputs.cache
+C:\Users\pp185251\source\repos\AdaptorDesignPattern\AdaptorDesignPattern\obj\Debug\net6.0\AdaptorDesignPattern.AssemblyInfo.cs
+C:\Users\pp185251\source\repos\AdaptorDesignPattern\AdaptorDesignPattern\obj\Debug\net6.0\AdaptorDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\pp185251\source\repos\AdaptorDesignPattern\AdaptorDesignPattern\obj\Debug\net6.0\AdaptorDesignPattern.dll
+C:\Users\pp185251\source\repos\AdaptorDesignPattern\AdaptorDesignPattern\obj\Debug\net6.0\refint\AdaptorDesignPattern.dll
+C:\Users\pp185251\source\repos\AdaptorDesignPattern\AdaptorDesignPattern\obj\Debug\net6.0\AdaptorDesignPattern.pdb
+C:\Users\pp185251\source\repos\AdaptorDesignPattern\AdaptorDesignPattern\obj\Debug\net6.0\AdaptorDesignPattern.genruntimeconfig.cache
+C:\Users\pp185251\source\repos\AdaptorDesignPattern\AdaptorDesignPattern\obj\Debug\net6.0\ref\AdaptorDesignPattern.dll
