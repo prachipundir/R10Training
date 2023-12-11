@@ -1,0 +1,14 @@
+C:\Users\pp185251\source\repos\StateDesignPattern\StateDesignPattern\bin\Debug\net7.0\StateDesignPattern.exe
+C:\Users\pp185251\source\repos\StateDesignPattern\StateDesignPattern\bin\Debug\net7.0\StateDesignPattern.deps.json
+C:\Users\pp185251\source\repos\StateDesignPattern\StateDesignPattern\bin\Debug\net7.0\StateDesignPattern.runtimeconfig.json
+C:\Users\pp185251\source\repos\StateDesignPattern\StateDesignPattern\bin\Debug\net7.0\StateDesignPattern.dll
+C:\Users\pp185251\source\repos\StateDesignPattern\StateDesignPattern\bin\Debug\net7.0\StateDesignPattern.pdb
+C:\Users\pp185251\source\repos\StateDesignPattern\StateDesignPattern\obj\Debug\net7.0\StateDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pp185251\source\repos\StateDesignPattern\StateDesignPattern\obj\Debug\net7.0\StateDesignPattern.AssemblyInfoInputs.cache
+C:\Users\pp185251\source\repos\StateDesignPattern\StateDesignPattern\obj\Debug\net7.0\StateDesignPattern.AssemblyInfo.cs
+C:\Users\pp185251\source\repos\StateDesignPattern\StateDesignPattern\obj\Debug\net7.0\StateDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\pp185251\source\repos\StateDesignPattern\StateDesignPattern\obj\Debug\net7.0\StateDesignPattern.dll
+C:\Users\pp185251\source\repos\StateDesignPattern\StateDesignPattern\obj\Debug\net7.0\refint\StateDesignPattern.dll
+C:\Users\pp185251\source\repos\StateDesignPattern\StateDesignPattern\obj\Debug\net7.0\StateDesignPattern.pdb
+C:\Users\pp185251\source\repos\StateDesignPattern\StateDesignPattern\obj\Debug\net7.0\StateDesignPattern.genruntimeconfig.cache
+C:\Users\pp185251\source\repos\StateDesignPattern\StateDesignPattern\obj\Debug\net7.0\ref\StateDesignPattern.dll
